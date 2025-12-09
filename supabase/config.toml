@@ -1,0 +1,10 @@
+project_id = "pxloroxihqpsgukzvdmr"
+
+[functions.chatbot]
+verify_jwt = false
+
+[functions.send-order-confirmation]
+verify_jwt = false
+
+[functions.send-newsletter-confirmation]
+verify_jwt = false
