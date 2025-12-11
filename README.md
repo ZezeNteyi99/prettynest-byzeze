@@ -1,73 +1,78 @@
-# Welcome to your Lovable project
+# 🌸 PrettyNest by Zeze 🌸  
+*“Because you deserve something beautiful”*
 
-## Project info
+---
+## 🌸 PrettyNest Floral Vibes 🌸
 
-**URL**: https://lovable.dev/projects/54de6c79-c8f3-41dc-82e3-13f5625c1c73
+<p align="center">
+  <img src="https://i.pinimg.com/originals/14/12/58/141258a3d8ac3129bc0e2abb7c3bd78e.gif" alt="Floral Bloom" width="300" />
+</p>
 
-## How can I edit this code?
 
-There are several ways of editing your application.
 
-**Use Lovable**
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License MIT" />
+</p>
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/54de6c79-c8f3-41dc-82e3-13f5625c1c73) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 💖 About PrettyNest  
+A charming e-commerce web app made for young women who love to feel beautiful and special. PrettyNest offers a curated collection of cosmetics, hair accessories, and lovely gift combos — all designed to brighten your day.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🌷 Features  
+✨ **Product Catalog:** Browse lip glosses, body mists, perfumes, bonnets, scrunchies, headbands, and more  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+🛒 **Shopping Cart:** Easy add, adjust, and manage your favorites  
 
-Follow these steps:
+🚪 **Guest Checkout:** Quick and easy — no account needed!  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+📧 **Order Confirmation Emails:** Automated emails to keep you in the loop, powered by Resend  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+🔍 **Order History Lookup:** Track your orders with just your email  
 
-# Step 3: Install the necessary dependencies.
-npm i
+🤖 **AI Chatbot:** Friendly assistant to help answer your questions and make shopping a breeze  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+📩 **Newsletter Subscription:** Stay in the know with our email updates  
 
-**Edit a file directly in GitHub**
+💬 **WhatsApp Integration:** Chat directly with us anytime via the floating button  
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+📱 **Responsive Design:** Looks fabulous on phones, tablets, and desktops  
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🎀 Tech Stack  
+- **Frontend:** React 18, TypeScript, Vite  
+- **Styling:** Tailwind CSS + shadcn/ui components  
+- **Backend:** Supabase (Database + Edge Functions)  
+- **Email:** Resend API  
+- **State Management:** React Context + TanStack Query  
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 🎨 Design  
+Soft blush pinks and rose gold tones create an elegant, feminine vibe, complete with glassmorphism effects and smooth animations. The typography mixes *Cormorant Garamond* for graceful headings with *Outfit* for clean, readable body text.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## ✨ Made with Love (and AI)  
+PrettyNest was lovingly built by **Zezethu** — with a sprinkle of AI magic helping out behind the scenes! 🤖💕
 
-Simply open [Lovable](https://lovable.dev/projects/54de6c79-c8f3-41dc-82e3-13f5625c1c73) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## 📸 Screenshots  
+*(Add some cute screenshots or GIFs here to show off your beautiful app!)*
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+✨🌸 Thanks for visiting PrettyNest! 🌸✨
+May your days be filled with beauty, sparkle, and joy — just like the treasures you’ll find here.
+Remember, you deserve something beautiful every single day. 💖
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Stay lovely,
+Zezethu & the PrettyNest team 💕
