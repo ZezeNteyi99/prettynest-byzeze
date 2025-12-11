@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://i.pinimg.com/originals/14/12/58/141258a3d8ac3129bc0e2abb7c3bd78e.gif" alt="Floral Bloom" width="300" />
+  <img src="./Screenshot.png" alt="PrettyNest Screenshot" width="400" />
 </p>
 
 
@@ -63,10 +63,6 @@ PrettyNest was lovingly built by **Zezethu** — with a sprinkle of AI magic hel
 
 ---
 
-## 📸 Screenshots  
-*(Add some cute screenshots or GIFs here to show off your beautiful app!)*
-
----
 
 ✨🌸 Thanks for visiting PrettyNest! 🌸✨
 May your days be filled with beauty, sparkle, and joy — just like the treasures you’ll find here.
